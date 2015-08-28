@@ -1,1 +1,1 @@
-#github_checkpoint
+GitHub checkpoint assignment
